@@ -291,10 +291,10 @@
     width: 276px;
     height: 180px;
     box-sizing: border-box;
-    background: #393F47 url(/icons/airplane-flight.svg) center 5.5rem / 3rem 3rem no-repeat;
+    background: #393F47 url(../icons/airplane-flight.svg) center 5.5rem / 3rem 3rem no-repeat;
 }
 .services__item:hover {
-    background: #C8A35F url(/icons/airplane-flight-black-eclipse.svg) center 3.5rem / 7rem 7rem no-repeat;
+    background: #C8A35F url(../icons/airplane-flight-black-eclipse.svg) center 3.5rem / 7rem 7rem no-repeat;
 }
  .services__item:nth-child(2){
     margin: 0 .1rem .1rem .1rem ;
@@ -385,7 +385,7 @@
     padding-top: 1.4rem;
 }
 .about__item:nth-child(4){
-    background: url(/img/mini-car.2.jpg) center center / cover no-repeat;
+    background: url(../img/mini-car.2.jpg) center center / cover no-repeat;
 } 
 .about__number {
     font-weight: bold;
